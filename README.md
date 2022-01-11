@@ -1,6 +1,6 @@
 # twitter_login
 
-![Pub Version](https://img.shields.io/pub/v/twitter_login?color=blue)
+![Pub Version](https://img.shields.io/pub/v/twitter_login?color=blue) [![Lint](https://github.com/0maru/twitter_login/actions/workflows/analyze_and_format.yaml/badge.svg?branch=master)](https://github.com/0maru/twitter_login/actions/workflows/analyze_and_format.yaml)
 
 Flutter Twitter Login Plugin
 
